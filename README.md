@@ -30,7 +30,7 @@
 画像を受信した際、AIの判定を待つ間にまず「画像サイズの通知」を即座に返し、その後に「じゃんけん結果」を送ることで、**「Botが正しく反応している」というフィードバックを確実にユーザーへ届ける設計**にしています。
 
 ## 【Botの実行について】
-現在、リソース調整のためバックエンドおよびAIサーバーを停止しており、LINE友達追加による実動作は行えません。
+現在、バックエンドおよびAIサーバーを停止しており、LINE友達追加による実動作は行えません。
 実際の動作の様子は、以下のデモ画像をご参照ください。
 <img width="972" height="859" alt="image" src="https://github.com/user-attachments/assets/a4ed4f16-f9e1-439c-9834-9f24c6cd6a5b" />
 <img width="974" height="276" alt="image" src="https://github.com/user-attachments/assets/fe27094e-c00a-4702-b249-43356819ad4c" />
